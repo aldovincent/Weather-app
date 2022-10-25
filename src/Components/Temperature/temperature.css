@@ -1,0 +1,39 @@
+.celcius{
+    height: 250px;
+    width:45%;
+    /* border: 2px solid black; */
+    margin-left:53%;
+    margin-top: -250px;
+    background-color: gray;
+    opacity:0.3;
+}
+.new{
+   margin-top: 25px; 
+   margin-left:20px;
+}
+.new6{
+    margin-left: 20px;
+}
+
+.new1{
+    margin-left:560px;
+
+} 
+.new2{
+    margin-right: 10px;
+}
+.new3{
+    margin-left:560px;
+}
+.new4{
+    margin-right: 10px;
+}
+.item1{
+    font-size: 36px;
+    font-weight: 400;
+    margin-left: 20px;
+}
+.item2{
+    font-size: 24px;
+    margin-left: 20px;
+}

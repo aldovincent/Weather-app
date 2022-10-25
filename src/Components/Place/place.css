@@ -1,0 +1,27 @@
+.city{
+    /* border:2px solid black; */
+    height: 250px;
+    width:50%;
+    margin-top: -600px;
+    margin-left: 20px;
+    background-color: grey;
+    opacity: 0.3;
+}
+.italic{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    
+}
+.key1{
+    font-size: 24px;
+    font-weight: 800px;
+    text-align: center;
+    padding-top: 20px;
+}
+.key2{
+    text-align: center;
+    font-size: 24px;
+    padding-top: 20px;
+}

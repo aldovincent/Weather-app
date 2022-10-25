@@ -1,0 +1,28 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+.banner{
+    background-image: url("../../../public/Assets/img1.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+    width:100%;
+}
+.searchfield{
+    border-radius:50px;
+    padding: 10px;
+    margin-left: 500px; 
+    margin-top: 20px;
+    width:500px;
+    border:5px solid white;
+    /* opacity:0.2; */
+    font-weight: bold;
+
+}
+.icon{
+     margin-left:62%;
+     margin-top:-30px;
+}
